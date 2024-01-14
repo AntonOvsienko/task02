@@ -7,31 +7,7 @@
     <list default="true" id="85460ebf-0fd5-43ab-a8db-67320da081d8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../task01/jsrc/main/java/com/task01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../task01/jsrc/main/java/com/task01/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../task01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02/build_meta.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02/original-task02-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02/sdk-layer-assembly.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02/task02-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02_240114.120927/build_meta.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02_240114.120927/original-task02-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02_240114.120927/task02-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02_240114.130101/build_meta.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02_240114.130101/original-task02-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02_240114.130101/sdk-layer-assembly.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/bundles/task02_240114.130101/task02-1.0.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/syndicate.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.syndicate-config-personal-development-account/syndicate_aliases.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deployment_resources.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsrc/main/java/com/task02/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
