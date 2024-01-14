@@ -1,0 +1,8 @@
+account_id: '388185665084'
+aws_access_key_id: AKIAVUYNLFY6ELA4HGPC
+aws_secret_access_key: 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
+deploy_target_bucket: syndicate-artefacts-388185665084-eucentral1
+extended_prefix_mode: false
+project_path: D:\Java\AWS\aws-projects\task02
+region: eu-central-1
+use_temp_creds: false
